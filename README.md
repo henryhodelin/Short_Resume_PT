@@ -1,5 +1,5 @@
 
-# Idioma do site:\[[EN](https://henryhodelin.github.io/Short_Resume_EN/),[PT](https://henryhodelin.github.io/Short_Resume_PT/),[ES](https://henryhodelin .github.io/Short_Resume_ES/)\]
+# Idioma do site : \[[EN](https://henryhodelin.github.io/Short_Resume_EN/),[PT](https://henryhodelin.github.io/Short_Resume_PT/),[ES](https://henryhodelin .github.io/Short_Resume_ES/)\]
 
 # Cientista de Dados
 
