@@ -26,7 +26,7 @@
 
 - Universidade Federal de Pernambuco------------Pernambuco, Brasil (08/2013-08/2015) 
   - Cargo: Estudante de Mestrado
-    - Simulação micromagnética para estudar os efeitos de rugosidade em nanofios de níquel ([Simulação micromagnética para estudar os efeitos de rugosidade em nanofios de níquel](https://repositorio.ufpe.br/bitstream/123456789/17699/1/Dissertacao-Version-Final.pdf))
+    -  ([Simulação micromagnética para estudar os efeitos de rugosidade em nanofios de níquel](https://repositorio.ufpe.br/bitstream/123456789/17699/1/Dissertacao-Version-Final.pdf))
 
     
 - Universidad de Oriente------------------------------------Santiago, Cuba (08/2012-07/2013)
@@ -43,7 +43,7 @@
 - SQL
   - MySQL, PostgreSQL, SQLite 
 - Inteligência Artificial
-  - Estruturas Fundamentais 
+  - Frameworks Fundamentais 
     - TensorFlow, PyTorch  
   - LLMs
     - Ollama, Langchain
